@@ -1,0 +1,88 @@
+body{
+	/* background-color: green; */
+	background-image:url(../images/fondo12.jpg); 
+}
+
+#encabezado{
+	color:orange;
+	text-align: center;
+	border-radius: 50px;
+	width: 50%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: #0F2DAA;
+}
+
+#piepagina{
+	color:000;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 10px;
+	height: 150px;
+	background-color:blue;
+	clear: both;
+	padding: 5px 5px 5px 5px;
+	}
+
+	
+
+#seccion1{
+	float:left;
+	width: 40%;
+	height: 250px;
+	margin: 0 0 0 10%;
+	background-color: #48AC8F;
+	padding: 10px 10px 10px 10px;
+}
+
+#seccion2{
+	float:right;
+	width: 38%;
+	height: 250px;
+	margin: 0 10% 0 0;
+	background-color: #48AC8F;
+	padding: 10px 10px 10px 10px;
+}
+
+.menu li{
+	list-style: none;
+	color:#000;
+	display: inline;
+	background:#fff;
+	margin: 0 20px;
+	border-radius: 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+#insta{
+	float:right;
+	width: 38%;
+	height: 100px;
+	margin: 0 10% 0 0;
+	background-color: #E2EFEB;
+	padding: 10px 10px 10px 10px;
+}
+
+
+
+#cancion{
+	float:right;
+	width: 20%;
+	height: 80px;
+	margin: 0 10% 0 0;
+	background-color: red;
+	padding: 10px 10px 10px 10px;
+}
+
+#face{
+	float:left;
+	width: 38%;
+	height: 100px;
+	margin: 0 0 0 10%;
+	background-color: #E2EFEB;
+	padding: 10px 10px 10px 10px;
+}
+
+
+	

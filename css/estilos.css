@@ -1,0 +1,61 @@
+
+body{
+	/* background-color: green; */
+	background-image: url(../images/fondo1.png);
+}
+
+nav{
+	margin: 0 10%;
+
+}
+
+.menu li{
+	list-style: none;
+	color:#000;
+	display: inline;
+	background:#fff;
+	margin: 0 20px;
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+#encabezado{
+	color:#000;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: blue;
+}
+
+#piepagina{
+	color:000;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 10px;
+	height: 150px;
+	background-color:blue;
+	clear: both;
+	padding: 5px 5px 5px 5px;
+
+}
+
+#seccion1{
+	float:left;
+	width: 38%;
+	height: 350px;
+	margin: 0 0 0 10%;
+	background-color: blue;
+	padding: 10px 10px 10px 10px;
+}
+
+#seccion2{
+	float:right;
+	width: 38%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color: red;
+	padding: 10px 10px 10px 10px;
+}
+
